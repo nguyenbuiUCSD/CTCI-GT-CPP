@@ -9,3 +9,4 @@ list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR}/cmake) # Add tools for cmake
 enable_testing()
 
 add_subdirectory(test)
+add_subdirectory(src)

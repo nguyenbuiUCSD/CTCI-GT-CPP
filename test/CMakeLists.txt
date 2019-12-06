@@ -8,6 +8,6 @@ set(Sources
 
 add_executable(${This} ${Sources})
 
-target_link_libraries(${This}  gtest gmock gtest_main)
+target_link_libraries(${This}  gtest gmock gtest_main Example)
 
 add_test(NAME ${This} COMMAND ${This})
