@@ -1,5 +1,5 @@
 # CTCI-GT
-This is a Visual Studio Project that is created to practice c++ for interview. This inclue test cases using Google Test
+This is a CMake project that is created to practice c++ for interview. This inclue test cases using Google Test
 
 **DATA STRUCTURE**
 
