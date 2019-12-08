@@ -3,10 +3,7 @@ This is a CMake project that is created to practice c++ for interview. This incl
 
 **DATA STRUCTURE**
 
-*Arrays and Strings*
-
-*Linked List*
 
 **CONCEPT AND ALGORITHM**
 
-*Recursion and Dynamic Programing*
+**KNOWLEDGE BASED**
