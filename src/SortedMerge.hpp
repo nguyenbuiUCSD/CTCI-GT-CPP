@@ -4,7 +4,7 @@
 
 class SortedMerge {
 public:
-	bool solution(std::vector<int> &l1, std::vector<int> &l2);
+	void solution(std::vector<int> &l1, std::vector<int> &l2);
 };
 
 #endif /*SORTEDMERGE_HPP*/
